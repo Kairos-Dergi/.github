@@ -10,7 +10,7 @@ Welcome to the GitHub repository of Kairos Dergi, a magazine that explores a wid
 
 - **Submission Opportunities:** Even if you're not part of the academic world, we welcome you to submit your writings and creative works. Our focus is on the quality and expression, ensuring everyone has an opportunity to be published on our website.
 
-- Visit our [website](link-to-website) to explore the latest articles and creative works, and stay updated with our magazine's activities.
+- Visit our [website](https://www.kairosdergi.com/) to explore the latest articles and creative works, and stay updated with our magazine's activities.
 
 We value your contributions and look forward to sharing your insights and creativity in the world of philosophy and the arts.
 
